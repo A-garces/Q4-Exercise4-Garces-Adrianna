@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(230, 145, 185);
+    color: rgb(0, 0, 0);
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.container {
+    max-width: 1000px;
+    padding: 2%;
+    border-radius: 30px;
+    margin-top: 10%;
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+}
